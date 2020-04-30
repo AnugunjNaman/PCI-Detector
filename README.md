@@ -6,7 +6,7 @@ Please pay attention to the disk capacity when downloading.
 
 ## Download MaskRCNN
 
--[MaskRCNN](https://github.com/matterport/Mask_RCNN)
+- [MaskRCNN](https://github.com/matterport/Mask_RCNN)
 Install it along with tensorflow 1.13 and Keras 2.2.0
 
 ## TODO
