@@ -1,6 +1,6 @@
 # Steps to Run Locally:
 
-- Clone this `https://github.com/fizyr/keras-retinanet.git` repository
+- Clone [this](https://github.com/fizyr/keras-retinanet.git) repository
 - `cd keras-retinanet`
 - `python -m pip install .`
 - if this error  comes `error: command 'gcc' failed with exit status 1`
