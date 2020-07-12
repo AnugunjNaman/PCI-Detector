@@ -16,7 +16,7 @@
             * leave this folder empty, output will get saved here.
 
 - Place the `flask_server.py` also in the cloned repo's folder.
-
+- [Link to the trained model(250 Mb)](https://drive.google.com/file/d/1N1ZazBRPI-tt4iG4Jt-MhyTWW8aQREDQ/view?usp=sharing)
 
 
 
