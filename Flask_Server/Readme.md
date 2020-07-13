@@ -1,6 +1,6 @@
 # Steps to Run Locally:
 
-- Clone this `https://github.com/fizyr/keras-retinanet.git` repository
+- Clone [this](https://github.com/fizyr/keras-retinanet.git) repository
 - `cd keras-retinanet`
 - `python -m pip install .`
 - if this error  comes `error: command 'gcc' failed with exit status 1`
@@ -16,7 +16,7 @@
             * leave this folder empty, output will get saved here.
 
 - Place the `flask_server.py` also in the cloned repo's folder.
-
+- [Link to the trained model(250 Mb)](https://drive.google.com/file/d/1N1ZazBRPI-tt4iG4Jt-MhyTWW8aQREDQ/view?usp=sharing)
 
 
 
